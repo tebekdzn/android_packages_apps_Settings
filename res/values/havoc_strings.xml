@@ -17,16 +17,16 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- Havoc OS -->
-    <string name="havoc_title" translatable="false">Havoc-OS</string>
+    <string name="havoc_title" translatable="false">MiksueROM</string>
 
     <!-- Config Center -->
     <string name="config_center_title">Configuration Center</string>
     <string name="config_center_dashboard_summary">Explore additional settings for your device</string>
 
     <!-- About phone screen, Havoc version -->
-    <string name="havoc_version">Havoc version</string>
+    <string name="havoc_version">MiksueROM version</string>
     <string name="havoc_version_default">Unknown</string>
-    <string name="keywords_havoc_version">havoc version</string>
+    <string name="keywords_havoc_version">miksuerom version</string>
 
     <!-- About phone screen, build date -->
     <string name="build_date">Build date</string>
